@@ -46,4 +46,5 @@ int main(){
 
     cout << burnedCalories << endl;
     return 0;
+    
 }
